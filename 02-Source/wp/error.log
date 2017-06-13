@@ -1,0 +1,10 @@
+[Tue May 23 04:02:21.733694 2017] [authz_core:error] [pid 30298] [client 113.190.244.38:50169] AH01630: client denied by server configuration: /home/ubuntu/www/demo/
+[Tue May 23 04:02:22.181963 2017] [authz_core:error] [pid 30298] [client 113.190.244.38:50169] AH01630: client denied by server configuration: /home/ubuntu/www/demo/favicon.ico, referer: http://minh.qkhanhpro.cf/
+[Tue May 23 04:03:18.274296 2017] [authz_core:error] [pid 30297] [client 113.190.244.38:50172] AH01630: client denied by server configuration: /home/ubuntu/www/demo/
+[Tue May 23 04:03:18.464135 2017] [authz_core:error] [pid 30297] [client 113.190.244.38:50172] AH01630: client denied by server configuration: /home/ubuntu/www/demo/favicon.ico, referer: http://minh.qkhanhpro.cf/
+[Tue May 23 04:05:11.261791 2017] [authz_core:error] [pid 30301] [client 118.70.144.115:50217] AH01630: client denied by server configuration: /home/ubuntu/www/demo/
+[Tue May 23 04:05:11.424789 2017] [authz_core:error] [pid 30301] [client 118.70.144.115:50217] AH01630: client denied by server configuration: /home/ubuntu/www/demo/favicon.ico, referer: http://minh.qkhanhpro.cf/
+[Tue May 23 04:06:53.714323 2017] [authz_core:error] [pid 30296] [client 118.70.144.115:50230] AH01630: client denied by server configuration: /home/ubuntu/www/demo/
+[Tue May 23 04:06:53.973697 2017] [authz_core:error] [pid 30296] [client 118.70.144.115:50230] AH01630: client denied by server configuration: /home/ubuntu/www/demo/favicon.ico, referer: http://minh.qkhanhpro.cf/
+[Tue May 23 04:06:56.200140 2017] [authz_core:error] [pid 30296] [client 118.70.144.115:50230] AH01630: client denied by server configuration: /home/ubuntu/www/demo/
+[Tue May 23 04:06:56.336741 2017] [authz_core:error] [pid 30296] [client 118.70.144.115:50230] AH01630: client denied by server configuration: /home/ubuntu/www/demo/favicon.ico, referer: http://minh.qkhanhpro.cf/
